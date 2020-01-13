@@ -393,30 +393,19 @@
 					<h3>개인파산</h3>
 					<ul class="sideMenuUl"> 
 						<li><a href="${pageContext.request.contextPath}/menu03_1">개인파산이란</a></li>
-						<li><a href="${pageContext.request.contextPath}/menu03_2">개인파산절차</a></li>
-						<li><a href="${pageContext.request.contextPath}/menu03_3">개인파산서류</a></li>
+						<li><a href="${pageContext.request.contextPath}/menu03_2">준비&절차</a></li>
 					</ul>
 				</div><!-- sideMenu end -->
-				<div class="callInfo">
-					<h4 class="callInfoTitle" id="callInfoTitle">상담센터</h4>
-					<h3>1877 - 0757</h3>
-					<h3 class="secondChild">053-743-1333</h3>
-					<h5>Fax. 053-743-1190</h5>
-					<h5>E-mail. tc119@naver.com</h5>
-					<h4 class="callInfoTitle">방문상담</h4>
-					<h5>AM 09:00<span class="blank"> ~ PM 06:00</span></h5>
-					<h4 class="callInfoTitle">전화상담<span class="smalltxt">&nbsp;(주말가능)</span></h4>
-					<h5>AM 09:00<span class="blank"> ~ PM 10:00</span></h5>
-				</div><!-- callInfo end -->
+				<jsp:include page="../include/leftMenu_info.jsp"></jsp:include><!-- callInfo end -->
 				<div class="navWrap">
 					<ul class="navUl"> 
 						<li><a href="${pageContext.request.contextPath}/"><img class="btnHome" src="${pageContext.request.contextPath}/resources/images/home.png"></a></li>
 						<li>
 							<a href="#none">개인파산<img class="btnArrow" src="${pageContext.request.contextPath}/resources/images/down_arrow.png"></a>
 							<ul class="sub_subDropdown">
-								<li><a href="${pageContext.request.contextPath}/menu01_1">법무사소개</a></li>
+								<li><a href="${pageContext.request.contextPath}/menu01_1">사무소소개</a></li>
 								<li><a href="${pageContext.request.contextPath}/menu02_1">개인회생</a></li>
-								<li><a href="${pageContext.request.contextPath}/menu04_1">민사</a></li>
+								<li><a href="${pageContext.request.contextPath}/menu04_1">민사·형사</a></li>
 								<li><a href="${pageContext.request.contextPath}/menu05_1">자주하는질문</a></li>
 							</ul>
 						</li>

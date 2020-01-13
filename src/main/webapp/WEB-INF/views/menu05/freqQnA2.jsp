@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>개인파산자주하는질문 | 김헌석법무사사무소</title>
+<title>단비법률사무소</title>
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/css/common.css?ver=4">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="${pageContext.request.contextPath}/resources/js/collapsibleQnA.js"></script>
@@ -517,10 +517,10 @@
 		<div class="contentWrap">
 			<div class="sideMenuWrap">
 				<div class="sideMenu">
-					<h3>자주하는질문</h3>
+					<h3>FAQ</h3>
 					<ul class="sideMenuUl"> 
-						<li><a href="${pageContext.request.contextPath}/menu05_1">개인회생질문</a></li>
-						<li><a href="${pageContext.request.contextPath}/menu05_2">개인파산질문</a></li>
+						<li><a href="${pageContext.request.contextPath}/menu05_1">개인회생</a></li>
+						<li><a href="${pageContext.request.contextPath}/menu05_2">개인파산</a></li>
 						<%-- <li><a href="${pageContext.request.contextPath}/menu05_3">민사질문</a></li> --%>
 					</ul>
 				</div><!-- sideMenu end -->
@@ -529,18 +529,18 @@
 					<ul class="navUl"> 
 						<li><a href="${pageContext.request.contextPath}/"><img class="btnHome" src="${pageContext.request.contextPath}/resources/images/home.png"></a></li>
 						<li>
-							<a href="#none">자주하는질문<img class="btnArrow" src="${pageContext.request.contextPath}/resources/images/down_arrow.png"></a>
+							<a href="#none">FAQ<img class="btnArrow" src="${pageContext.request.contextPath}/resources/images/down_arrow.png"></a>
 							<ul class="sub_subDropdown">
-								<li><a href="${pageContext.request.contextPath}/menu01_1">법무사소개</a></li>
+								<li><a href="${pageContext.request.contextPath}/menu01_1">사무소소개</a></li>
 								<li><a href="${pageContext.request.contextPath}/menu02_1">개인회생</a></li>
 								<li><a href="${pageContext.request.contextPath}/menu03_1">개인파산</a></li>
-								<li><a href="${pageContext.request.contextPath}/menu04_1">민사</a></li>
+								<li><a href="${pageContext.request.contextPath}/menu04_1">민사·형사</a></li>
 							</ul>
 						</li>
 						<li>
-							<a href="#none">개인파산질문<img class="btnArrow" src="${pageContext.request.contextPath}/resources/images/down_arrow.png"></a>
+							<a href="#none">개인파산<img class="btnArrow" src="${pageContext.request.contextPath}/resources/images/down_arrow.png"></a>
 							<ul class="sub_subDropdown">
-								<li><a href="${pageContext.request.contextPath}/menu05_1">개인회생질문</a></li>
+								<li><a href="${pageContext.request.contextPath}/menu05_1">개인회생</a></li>
 								<%-- <li><a href="${pageContext.request.contextPath}/menu05_3">민사질문</a></li> --%>
 							</ul>	
 						</li>
@@ -548,7 +548,7 @@
 				</div><!-- navWrap end -->
 			</div><!-- sideMenuWrap end -->
 			<div class="content">
-				<h1 class="contentTitle">개인파산 자주하는 질문</h1>
+				<h1 class="contentTitle">개인파산 FAQ</h1>
 				<ul class="collapsibleWrap">
 					<li class="collapsible">
 						<h2 class="collapsible_title"><a href="#none">Q. 소득이 전혀 없는 채무자만 개인파산을 신청할 수 있나요?</a></h2>

@@ -260,7 +260,7 @@
 					</div>
 				</li>
 				<li>
-					<a class="mMenu" href="#none">법무사소개</a>
+					<a class="mMenu" href="#none">사무소소개</a>
 					<div class="subMenuWrap">
 						<ul class="subMenuUl">
 							<li><a href="${pageContext.request.contextPath}/menu01_1">인사말</a></li>
@@ -297,7 +297,7 @@
 					</div>
 				</li>
 				<li>
-					<a class="mMenu" href="#none">자주하는질문</a>
+					<a class="mMenu" href="#none">FAQ</a>
 					<div class="subMenuWrap">
 						<ul class="subMenuUl">
 							<li><a href="${pageContext.request.contextPath}/menu05_1">개인회생</a></li>

@@ -140,6 +140,7 @@
 		width:350px;
 		display:block;
 		margin:0 auto;
+		border: 1px solid #efefef;
 	}
 	.pcTimeImg{
 		display:none;
