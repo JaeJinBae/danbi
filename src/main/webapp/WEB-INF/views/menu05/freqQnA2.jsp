@@ -511,8 +511,8 @@
 	</header>
 	<section>
 		<div class="topImg">
-			<img class="pcTopImg" src="${pageContext.request.contextPath}/resources/images/menu05TopImg.png">
-			<img class="mTopImg" src="${pageContext.request.contextPath}/resources/images/mMenu05TopImg.png">
+			<img class="pcTopImg" src="${pageContext.request.contextPath}/resources/images/menu05TopImg.jpg">
+			<img class="mTopImg" src="${pageContext.request.contextPath}/resources/images/mMenu05TopImg.jpg">
 		</div>
 		<div class="contentWrap">
 			<div class="sideMenuWrap">

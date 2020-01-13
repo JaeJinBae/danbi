@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>인사말 | 김헌석법무사사무소</title>
+<title>단비법률사무소</title>
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/css/common.css?ver=4">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -393,8 +393,8 @@
 	</header>
 	<section>
 		<div class="topImg">
-			<img class="pcTopImg" src="${pageContext.request.contextPath}/resources/images/menu01TopImg.png">
-			<img class="mTopImg" src="${pageContext.request.contextPath}/resources/images/mMenu01TopImg.png">
+			<img class="pcTopImg" src="${pageContext.request.contextPath}/resources/images/menu01TopImg.jpg">
+			<img class="mTopImg" src="${pageContext.request.contextPath}/resources/images/mMenu01TopImg.jpg">
 		</div>
 		<div class="contentWrap">
 			<div class="sideMenuWrap">
@@ -431,8 +431,8 @@
 				</div><!-- navWrap end -->
 			</div><!-- sideMenuWrap end -->
 			<div class="content">
-				<img class="pcContent" src="${pageContext.request.contextPath}/resources/images/menu01_1contentImg.png">
-				<img class="tmContent" src="${pageContext.request.contextPath}/resources/images/tmMenu01_1contentImg.png">
+				<img class="pcContent" src="${pageContext.request.contextPath}/resources/images/menu01_1contentImg.jpg">
+				<img class="tmContent" src="${pageContext.request.contextPath}/resources/images/tmMenu01_1contentImg.jpg">
 			</div>
 		</div>
 	</section>

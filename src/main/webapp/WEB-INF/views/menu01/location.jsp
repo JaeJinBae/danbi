@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>오시는 길 | 김헌석법무사사무소</title>
+<title>단비법률사무소</title>
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/css/common.css?ver=4">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=a3d28e9c9d28c7930cf4fcc7be5bd5f8&libraries=drawing"></script>
@@ -415,8 +415,8 @@
 	</header>
 	<section>
 		<div class="topImg">
-			<img class="pcTopImg" src="${pageContext.request.contextPath}/resources/images/menu01TopImg.png">
-			<img class="mTopImg" src="${pageContext.request.contextPath}/resources/images/mMenu01TopImg.png">
+			<img class="pcTopImg" src="${pageContext.request.contextPath}/resources/images/menu01TopImg.jpg">
+			<img class="mTopImg" src="${pageContext.request.contextPath}/resources/images/mMenu01TopImg.jpg">
 		</div>
 		<div class="contentWrap">
 			<div class="sideMenuWrap">
@@ -458,14 +458,14 @@
 					<script>
 						var container = document.getElementById('map');
 						var options = {
-							center: new daum.maps.LatLng(35.862336, 128.627921),
+							center: new daum.maps.LatLng(35.864629, 128.626390),
 							level: 3
 						};
 				
 						var map = new daum.maps.Map(container, options);
 						
 						// 마커가 표시될 위치입니다 
-						var markerPosition  = new daum.maps.LatLng(35.862336, 128.627921); 
+						var markerPosition  = new daum.maps.LatLng(35.864629, 128.626390); 
 	
 						// 마커를 생성합니다
 						var marker = new daum.maps.Marker({
@@ -476,7 +476,7 @@
 						marker.setMap(map);
 						
 						// 마커에 커서가 오버됐을 때 마커 위에 표시할 인포윈도우를 생성합니다.
-						var iwContent = '<div style="padding-left:15px; padding-top:2px; color:#033c60; font-size:15px; font-weight:bold;">김헌석법무사사무소</div>'; // 인포윈도우에 표출될 내용으로 HTML 문자열이나 document element가 가능합니다
+						var iwContent = '<div style="padding-left:15px; padding-top:2px; color:#033c60; font-size:15px; font-weight:bold;">단비법률사무소</div>'; // 인포윈도우에 표출될 내용으로 HTML 문자열이나 document element가 가능합니다
 	
 						// 인포윈도우를 생성합니다
 						var infowindow = new daum.maps.InfoWindow({
@@ -508,7 +508,7 @@
 						});
 					</script>
 				</div>
-				<img src="${pageContext.request.contextPath}/resources/images/location_test1.png">
+				<img src="${pageContext.request.contextPath}/resources/images/menu01_3contentImg.jpg">
 			</div>
 		</div>
 	</section>

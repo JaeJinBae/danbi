@@ -287,15 +287,15 @@
 						</ul>
 					</div>
 				</li>
-				<%-- <li>
-					<a class="mMenu" href="#none">민사</a>
+				<li>
+					<a class="mMenu" href="#none">민사·형사</a>
 					<div class="subMenuWrap">
 						<ul class="subMenuUl">
-							<li><a href="${pageContext.request.contextPath}/menu04_1">민사소송이란</a></li>
-							<li><a href="${pageContext.request.contextPath}/menu04_2">민사진행절차</a></li>
+							<li><a href="${pageContext.request.contextPath}/menu04_1">민사소송</a></li>
+							<li><a href="${pageContext.request.contextPath}/menu04_2">형사소송</a></li>
 						</ul>
 					</div>
-				</li> --%>
+				</li>
 				<li>
 					<a class="mMenu" href="#none">자주하는질문</a>
 					<div class="subMenuWrap">
