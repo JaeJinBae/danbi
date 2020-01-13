@@ -253,9 +253,9 @@
 					<div class="subMenuWrap">
 						<div class="subMenuCallInfo">
 						<p>개인회생/개인파산/민사 똑같다고 생각 마세요.</p>
-						<p>여러분의 최고 파트너 <span id="bigtxt">김헌석</span>의 문을 두드리세요.</p>
-						<h1>053-743-1333</h1>
-						<h1>053-745-1333</h1>
+						<p>여러분의 최고 파트너 <span id="bigtxt">'단비'</span>의 문을 두드리세요.</p>
+						<h1>1877-0757</h1>
+						<h1>053-754-0969</h1>
 					</div><!-- subMenuCallInfo -->
 					</div>
 				</li>
@@ -264,7 +264,7 @@
 					<div class="subMenuWrap">
 						<ul class="subMenuUl">
 							<li><a href="${pageContext.request.contextPath}/menu01_1">인사말</a></li>
-							<li><a href="${pageContext.request.contextPath}/menu01_2">운영방침</a></li>
+							<li><a href="${pageContext.request.contextPath}/menu01_2">4가지 약속</a></li>
 							<li><a href="${pageContext.request.contextPath}/menu01_3">오시는 길</a></li>
 						</ul>
 					</div>
@@ -273,9 +273,8 @@
 					<a class="mMenu" href="#none">개인회생</a>
 					<div class="subMenuWrap">
 						<ul class="subMenuUl">
-							<li><a href="${pageContext.request.contextPath}/menu02_1">개인회생이란</a></li>
-							<li><a href="${pageContext.request.contextPath}/menu02_2">개인회생절차</a></li>
-							<li><a href="${pageContext.request.contextPath}/menu02_3">개인회생서류</a></li>
+							<li><a href="${pageContext.request.contextPath}/menu02_1">개인회생이란?</a></li>
+							<li><a href="${pageContext.request.contextPath}/menu02_2">준비&절차</a></li>
 						</ul>
 					</div>
 				</li>
@@ -283,13 +282,12 @@
 					<a class="mMenu" href="#none">개인파산</a>
 					<div class="subMenuWrap">
 						<ul class="subMenuUl">
-							<li><a href="${pageContext.request.contextPath}/menu03_1">개인파산이란</a></li>
-							<li><a href="${pageContext.request.contextPath}/menu03_2">개인파산절차</a></li>
-							<li><a href="${pageContext.request.contextPath}/menu03_3">개인파산서류</a></li>
+							<li><a href="${pageContext.request.contextPath}/menu03_1">개인파산이란?</a></li>
+							<li><a href="${pageContext.request.contextPath}/menu03_2">준비&절차</a></li>
 						</ul>
 					</div>
 				</li>
-				<li>
+				<%-- <li>
 					<a class="mMenu" href="#none">민사</a>
 					<div class="subMenuWrap">
 						<ul class="subMenuUl">
@@ -297,13 +295,13 @@
 							<li><a href="${pageContext.request.contextPath}/menu04_2">민사진행절차</a></li>
 						</ul>
 					</div>
-				</li>
+				</li> --%>
 				<li>
 					<a class="mMenu" href="#none">자주하는질문</a>
 					<div class="subMenuWrap">
 						<ul class="subMenuUl">
-							<li><a href="${pageContext.request.contextPath}/menu05_1">개인회생질문</a></li>
-							<li><a href="${pageContext.request.contextPath}/menu05_2">개인파산질문</a></li>
+							<li><a href="${pageContext.request.contextPath}/menu05_1">개인회생</a></li>
+							<li><a href="${pageContext.request.contextPath}/menu05_2">개인파산</a></li>
 						</ul>
 					</div>
 				</li>
