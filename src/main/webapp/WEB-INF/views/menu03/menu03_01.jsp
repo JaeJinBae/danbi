@@ -412,8 +412,8 @@
 						<li>
 							<a href="#none">개인파산이란<img class="btnArrow" src="${pageContext.request.contextPath}/resources/images/down_arrow.png"></a>
 							<ul class="sub_subDropdown">
-								<li><a href="${pageContext.request.contextPath}/menu03_2">개인파산절차</a></li>
-								<li><a href="${pageContext.request.contextPath}/menu03_3">개인파산서류</a></li>
+								<li><a href="${pageContext.request.contextPath}/menu03_1">개인파산이란</a></li>
+								<li><a href="${pageContext.request.contextPath}/menu03_2">준비&절차</a></li>
 							</ul>	
 						</li>
 					</ul>

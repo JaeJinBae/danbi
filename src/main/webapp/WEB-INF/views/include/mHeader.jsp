@@ -112,6 +112,7 @@
 		padding:15px;
 		margin-top:20px;
 		background: #fff;
+		text-align: left;
 	}
 	.mCallInfoTitle{
 		margin-bottom:10px;
@@ -122,7 +123,7 @@
 	}
 	.mCallInfo > h3{
 		font-weight:600;	
-		color: #0072bc;
+		color: #ff9e3d;
 		font-size:25px;
 	}
 	.mCallInfo > .secondChild{
@@ -190,7 +191,7 @@
 	<div id="mySidenav" class="sidenav">
 		<a class="homeBtn" href="${pageContext.request.contextPath}/">
 			<img src="${pageContext.request.contextPath}/resources/images/mobileHomeIcon.png">
-			<span>홈으로</span>
+			<span>HOME</span>
 		</a>
 		<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 		<hr>
@@ -244,10 +245,8 @@
 		</ul>
 		<div class="mCallInfo">
 			<h4 class="mCallInfoTitle" id="mCallInfoTitle">상담센터</h4>
-			<h3>053-743-1333</h3>
-			<h3 class="secondChild">053-745-1333</h3>
-			<h5>Fax. 053-743-1190</h5>
-			<h5>E-mail. tc-law@nate.com</h5>
+			<h3>1877-0757</h3>
+			<h3 class="secondChild">053-754-0969</h3>
 			<h4 class="mCallInfoTitle">방문상담</h4>
 			<h5>AM 09:00<span class="blank"> ~ PM 06:00</span></h5>
 			<h4 class="mCallInfoTitle">전화상담<span class="mSmalltxt">&nbsp;(주말가능)</span></h4>

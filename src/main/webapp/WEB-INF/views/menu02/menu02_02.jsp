@@ -410,10 +410,10 @@
 							</ul>
 						</li>
 						<li>
-							<a href="#none">개인회생절차<img class="btnArrow" src="${pageContext.request.contextPath}/resources/images/down_arrow.png"></a>
+							<a href="#none">준비&절차<img class="btnArrow" src="${pageContext.request.contextPath}/resources/images/down_arrow.png"></a>
 							<ul class="sub_subDropdown">
 								<li><a href="${pageContext.request.contextPath}/menu02_1">개인회생이란</a></li>
-								<li><a href="${pageContext.request.contextPath}/menu02_3">개인회생서류</a></li>
+								<li><a href="${pageContext.request.contextPath}/menu02_2">준비&절차</a></li>
 							</ul>	
 						</li>
 					</ul>

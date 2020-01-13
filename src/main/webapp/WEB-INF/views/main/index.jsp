@@ -178,7 +178,7 @@
 		width:100%;
 		min-width:767px;
 		/* height:95px; */
-		background: #033c60;
+		background: #e4d5b2;
 		position: absolute;
 		top:0; 
 		z-index: 99;
@@ -354,7 +354,7 @@
 		width:100%;
 		min-width:1100px;
 		/* height:115px; */
-		background: #033c60;
+		background: #e4d5b2;
 		position: absolute;
 		top:0; 
 		z-index: 99;

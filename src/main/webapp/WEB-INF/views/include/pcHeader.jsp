@@ -86,7 +86,7 @@
 	.subMenuCallInfo > p{
 		font-size:13px;
 		font-weight:600;
-		color:lightgray;
+		color: #222222;
 		line-height:25px;
 	}
 	#bigtxt{
@@ -110,13 +110,16 @@
 	}
 	.subMenuUl > li > a{
 		font-size:14px;
-		color:#e1e1e1;
+		color:#222222;
 	}
 	.subMenuUl > li > a:hover{
 		font-weight:bold !important;
 	}
 }
 @media only screen and (min-width:1100px){
+	header{
+		background: #e4d5b2;
+	}
 	.mHeaderWrap{
 		display:none;
 	}
@@ -188,7 +191,7 @@
 	.subMenuCallInfo > p{
 		font-size:16px;
 		font-weight:600;
-		color:lightgray;
+		color: #222222;
 		line-height:25px;
 	}
 	#bigtxt{
@@ -210,7 +213,7 @@
 	}
 	.subMenuUl > li > a{
 		font-size:17px;
-		color:#e1e1e1;
+		color: #222222;
 	}
 	.subMenuUl > li > a:hover{
 		font-weight:bold !important;

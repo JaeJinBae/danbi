@@ -334,7 +334,7 @@
 	}
 	.callInfo > h3{
 		font-weight:600;	
-		color: #0072bc;
+		color: #ff9e3d;
 	}
 	.callInfo > .secondChild{
 		margin-bottom:8px;
