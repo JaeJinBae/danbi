@@ -419,7 +419,7 @@
 				</div><!-- navWrap end -->
 			</div><!-- sideMenuWrap end -->
 			<div class="content">
-				<img src="${pageContext.request.contextPath}/resources/images/menu04_2contentImg.png">
+				<img src="${pageContext.request.contextPath}/resources/images/menu04_2contentImg.jpg">
 			</div>
 		</div>
 	</section>
