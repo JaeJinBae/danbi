@@ -81,46 +81,12 @@
 	}
 	.mainInfo{
 		width:350px;
-		height:230px;
 		margin:0 auto;
 		border:1px solid lightgray;
 		position: relative;
 	}
-	.info01{
-		background: url("${pageContext.request.contextPath}/resources/images/mainInfoImg1.jpg") no-repeat;
-		background-size: cover;
-	}
-	.info02{
-		background: url("${pageContext.request.contextPath}/resources/images/mainInfoImg2.jpg") no-repeat;
-		background-size: cover;
-	}
-	.info03{
-		background: url("${pageContext.request.contextPath}/resources/images/mainInfoImg3.jpg") no-repeat;
-		background-size: cover;
-	}
-	.txtBox{
-		width:100%;
-		height:73px;
-		position: absolute;
-		bottom:0;
-		background: #fff;
-		padding:7px 12px;
-	}
-	.txtTitle{
-		width:100%;
-		overflow:hidden;
-	}
-	.txtTitle > h4{
-		float:left;
-	}
-	.txtTitle > a{
-		float:right;
-		font-size:15px;
-	}
-	.txtBox > p{
-		font-size:15px;
-		letter-spacing: 2px;
-		margin-top:5px;
+	.mainInfo > a > img{
+		width: 100%;
 	}
 	#section2{
 		width:100%;
@@ -241,49 +207,15 @@
 	}
 	.mainInfo{
 		width:250px;
-		height:195px;
 		float:left;
 		border:1px solid lightgray;
 		position: relative;
 	}
+	.mainInfo > a > img{
+		width: 100%;
+	}
 	.mainInfo:nth-child(2){
 		margin:0 8px;
-	}
-	.info01{
-		background: url("${pageContext.request.contextPath}/resources/images/mainInfoImg1.jpg") no-repeat;
-		background-size: contain;
-	}
-	.info02{
-		background: url("${pageContext.request.contextPath}/resources/images/mainInfoImg2.jpg") no-repeat;
-		background-size: contain;
-	}
-	.info03{
-		background: url("${pageContext.request.contextPath}/resources/images/mainInfoImg3.jpg") no-repeat;
-		background-size: contain;
-	}
-	.txtBox{
-		width:100%;
-		height:83px;
-		position: absolute;
-		bottom:0;
-		background: #fff;
-		padding:5px 14px;
-	}
-	.txtTitle{
-		width:100%;
-		overflow:hidden;
-	}
-	.txtTitle > h4{
-		float:left;
-	}
-	.txtTitle > a{
-		float:right;
-		font-size:15px;
-	}
-	.txtBox > p{ 
-		font-size:14px;
-		letter-spacing: 0px;
-		margin-top:3px;
 	}
 	#section2{
 		background:#f5f5f5;
@@ -416,49 +348,15 @@
 	}
 	.mainInfo{
 		width:350px;
-		height:230px;
 		float:left;
 		border:1px solid lightgray;
 		position: relative;
 	}
-	.info01{
-		background: url("${pageContext.request.contextPath}/resources/images/mainInfoImg1.jpg") no-repeat;
-		background-size: cover;
-	}
-	.info02{
-		background: url("${pageContext.request.contextPath}/resources/images/mainInfoImg2.jpg") no-repeat;
-		background-size: cover;
-	}
-	.info03{
-		background: url("${pageContext.request.contextPath}/resources/images/mainInfoImg3.jpg") no-repeat;
-		background-size: cover;
+	.mainInfo > a > img{
+		width: 100%;
 	}
 	.mainInfo:nth-child(2){
 		margin:0 25px;
-	}
-	.txtBox{
-		width:100%;
-		height:73px;
-		position: absolute;
-		bottom:0;
-		background: #fff;
-		padding:7px 12px;
-	}
-	.txtTitle{
-		width:100%;
-		overflow:hidden;
-	}
-	.txtTitle > h4{
-		float:left;
-	}
-	.txtTitle > a{
-		float:right;
-		font-size:15px;
-	}
-	.txtBox > p{
-		font-size:15px;
-		letter-spacing: 2px;
-		margin-top:5px;
 	}
 	#section2{
 		background:#f5f5f5;
@@ -570,31 +468,19 @@
 				</div>
 				<div class="boxWrap">
 					<div class="mainInfo info01">
-						<%-- <div class="txtBox">
-							<div class="txtTitle">
-								<h4>개인회생</h4>
-								<a href="${pageContext.request.contextPath}/menu02_1">더보기+</a>
-							</div>
-							<p>최상의 해결책을 마련하여 소중한 고객님의 인생을 지켜드리겠습니다.</p>
-						</div> --%>
+						<a href="${pageContext.request.contextPath}/menu02_1">
+							<img src="${pageContext.request.contextPath}/resources/images/mainInfoImg1.jpg">
+						</a>
 					</div>
 					<div class="mainInfo info02">
-						<%-- <div class="txtBox">
-							<div class="txtTitle">
-								<h4>개인파산</h4>
-								<a href="${pageContext.request.contextPath}/menu03_1">더보기+</a>
-							</div>
-							<p>신뢰로 최선을 다하는 김헌석이 고객님을 지켜드리겠습니다.</p>
-						</div> --%>
+						<a href="${pageContext.request.contextPath}/menu03_1">
+							<img src="${pageContext.request.contextPath}/resources/images/mainInfoImg2.jpg">
+						</a>
 					</div> 
 					<div class="mainInfo info03">
-						<%-- <div class="txtBox">
-							<div class="txtTitle">
-								<h4>민사소송</h4>
-								<a href="${pageContext.request.contextPath}/menu04_1">더보기+</a>
-							</div>
-							<p>다루고자하는 권리의무관계에 대하여 법원의 판단을 구하는 절차 김헌석이 돕겠습니다.</p>
-						</div> --%>
+						<a href="${pageContext.request.contextPath}/menu04_1">
+							<img src="${pageContext.request.contextPath}/resources/images/mainInfoImg3.jpg">
+						</a>
 					</div>
 				</div><!-- boxWrap end -->
 			</div><!-- content01 end -->
