@@ -463,7 +463,7 @@
 		<div class="contentWrap1">
 			<div class="content01">
 				<div class="smallTitle">
-					<h2>단비 법률사무소</h2>
+					<h2>법무사 김재현 사무소</h2>
 					<p>오랜 경력의 법률 담당자가 최상의 서비스를 제공합니다.</p>
 				</div>
 				<div class="boxWrap">
@@ -546,14 +546,14 @@
 				<script>
 					var container = document.getElementById('map');
 					var options = {
-						center: new daum.maps.LatLng(35.864644, 128.626459),
+						center: new daum.maps.LatLng(35.862901, 128.625454),
 						level: 3
 					};
 			
 					var map = new daum.maps.Map(container, options);
 					
 					// 마커가 표시될 위치입니다 
-					var markerPosition  = new daum.maps.LatLng(35.864644, 128.626459); 
+					var markerPosition  = new daum.maps.LatLng(35.862901, 128.625454); 
 
 					// 마커를 생성합니다
 					var marker = new daum.maps.Marker({
@@ -564,7 +564,7 @@
 					marker.setMap(map);
 					
 					// 마커에 커서가 오버됐을 때 마커 위에 표시할 인포윈도우를 생성합니다.
-					var iwContent = '<div style="padding-left:29px; padding-top:2px; color:#ff6d00; font-size:15px; font-weight:bold;">단비법률사무소</div>'; // 인포윈도우에 표출될 내용으로 HTML 문자열이나 document element가 가능합니다
+					var iwContent = '<div style="padding-left:15px; padding-top:2px; color:#ff6d00; font-size:15px; font-weight:bold;">법무사김재현사무소</div>'; // 인포윈도우에 표출될 내용으로 HTML 문자열이나 document element가 가능합니다
 
 					// 인포윈도우를 생성합니다
 					var infowindow = new daum.maps.InfoWindow({

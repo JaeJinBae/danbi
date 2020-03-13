@@ -80,9 +80,9 @@
 		<img src="${pageContext.request.contextPath}/resources/images/bottomLogo.png">
 	</div>
 	<div class="rightFInfo">
-		<p>상호 : 법률사무소 단비 / 사업자등록번호 : 186-30-00830</p>
-		<p>대표 : 김빛 / 전화 : 1877-0757 / 이메일 : tc_law@nate.com</p>
-		<p>소재지 : 대구광역시 수성구 동대구로 383, 2층(범어동)</p>
-		<p>Copyright(c)법률사무소단비. All Rights Reserved.</p>
+		<p>상호 : 법무사 김재현 사무소 / 사업자등록번호 : 449-07-01580</p>
+		<p>대표 : 김재현 / 전화 : 053-719-3557 / 이메일 : dual9890@nate.com</p>
+		<p>소재지 : 대구광역시 수성구 성북로2길 76, 2층(범어동)</p>
+		<p>Copyright(c)법무사김재현사무소. All Rights Reserved.</p>
 	</div>
 </div>
