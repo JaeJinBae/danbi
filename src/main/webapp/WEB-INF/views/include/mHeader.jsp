@@ -185,7 +185,7 @@
 	});	
 </script>
 <div class="headerWrap2"><!-- mobileMenu.png -->
-	<a class="logo" href="${pageContext.request.contextPath}/"><img src="${pageContext.request.contextPath}/resources/images/logo.png"></a>
+	<a class="logo" href="${pageContext.request.contextPath}/"><img style="width:195px;" src="${pageContext.request.contextPath}/resources/images/logo.png"></a>
 	<p class="menuIcon" onclick="openNav()"><img src="${pageContext.request.contextPath}/resources/images/mobileMenu.png"></p>
 	<div class="menuBg"></div>
 	<div id="mySidenav" class="sidenav">
@@ -245,12 +245,11 @@
 		</ul>
 		<div class="mCallInfo">
 			<h4 class="mCallInfoTitle" id="mCallInfoTitle">상담센터</h4>
-			<h3>1877-0757</h3>
-			<h3 class="secondChild">053-754-0969</h3>
+			<h3>053-719-3557</h3>
 			<h4 class="mCallInfoTitle">방문상담</h4>
 			<h5>AM 09:00<span class="blank"> ~ PM 06:00</span></h5>
-			<h4 class="mCallInfoTitle">전화상담<span class="mSmalltxt">&nbsp;(주말가능)</span></h4>
-			<h5>AM 09:00<span class="blank"> ~ PM 10:00</span></h5>
+			<h4 class="mCallInfoTitle">전화상담</h4>
+			<h5>AM 09:00<span class="blank"> ~ PM 07:00</span></h5>
 		</div><!-- callInfo end -->
 	</div>
 </div>

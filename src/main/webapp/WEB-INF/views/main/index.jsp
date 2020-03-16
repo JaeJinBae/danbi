@@ -7,15 +7,15 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>개인회생파산전문 김헌석법무사</title>
+<title>법무사 김재현 사무소</title>
 <meta name="naver-site-verification" content="d53046e7ecfe442e3b973c1baeb37ec7fc75031d"/>
-<meta name="description" content="대구 법원앞, 개인회생, 개인파산, 민사 등 무료 상담, 빠르고 높은 인가율! 책임관리!">
+<meta name="description" content="믿을 수 있는 법무사 김재현 사무소">
 <meta property="og:type" content="website">
-<meta property="og:title" content="개인회생파산전문 김헌석법무사">
-<meta property="og:description" content="대구 법원앞, 개인회생, 개인파산, 민사 등 무료 상담, 빠르고 높은 인가율! 책임관리!">
-<meta property="og:image" content="http://www.119-law.com/logo.png">
-<meta property="og:url" content="http://www.119-law.com">
-<link rel="canonical" href="http://www.119-law.com/">
+<meta property="og:title" content="법무사 김재현 사무소">
+<meta property="og:description" content="믿을 수 있는 법무사 김재현 사무소">
+<meta property="og:image" content="http://www.help-law.co.kr/logo.png">
+<meta property="og:url" content="http://www.help-law.co.kr">
+<link rel="canonical" href="http://www.help-law.co.kr">
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/css/common.css?ver=4">
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/slick/slick.css"/>
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/slick/slick-theme.css?ver=0"/>
