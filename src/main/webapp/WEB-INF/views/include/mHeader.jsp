@@ -234,6 +234,19 @@
 				</div>
 			</li>
 			<li>
+				<p>기타업무<img src="${pageContext.request.contextPath}/resources/images/ico_arr_nav_down_x2.png"></p>
+				<div class="subMenu">
+					<ul class="subNavUl">
+						<li><a href="${pageContext.request.contextPath}/#none">- 부동산 등기</a></li>
+							<li><a href="${pageContext.request.contextPath}/#none">- 법인 등기</a></li>
+							<li><a href="${pageContext.request.contextPath}/#none">- 상속 등기</a></li>
+							<li><a href="${pageContext.request.contextPath}/#none">- 한정승인</a></li>
+							<li><a href="${pageContext.request.contextPath}/#none">- 지급명령</a></li>
+							<li><a href="${pageContext.request.contextPath}/#none">- 소장/가압류</a></li>
+					</ul>
+				</div>
+			</li>
+			<li>
 				<p>FAQ<img src="${pageContext.request.contextPath}/resources/images/ico_arr_nav_down_x2.png"></p>
 				<div class="subMenu">
 					<ul class="subNavUl">

@@ -148,7 +148,7 @@
 	}
 	.mainMenuUl > li{
 		float:left;
-		width:120px;
+		width:115px;
 		text-align: center;
 		padding-top:45px;
 	}
@@ -160,7 +160,7 @@
 		color: #5E5E5E;
 	}
 	.mainMenuUl > li:first-child{
-		width:500px;
+		width:390px;
 		padding-top:24px;
 	}
 	.logoDiv{
@@ -295,6 +295,19 @@
 						<ul class="subMenuUl">
 							<li><a href="${pageContext.request.contextPath}/menu04_1">민사소송</a></li>
 							<li><a href="${pageContext.request.contextPath}/menu04_2">형사소송</a></li>
+						</ul>
+					</div>
+				</li>
+				<li>
+					<a class="mMenu" href="#none">기타업무</a>
+					<div class="subMenuWrap">
+						<ul class="subMenuUl">
+							<li><a href="${pageContext.request.contextPath}/#none">부동산 등기</a></li>
+							<li><a href="${pageContext.request.contextPath}/#none">법인 등기</a></li>
+							<li><a href="${pageContext.request.contextPath}/#none">상속 등기</a></li>
+							<li><a href="${pageContext.request.contextPath}/#none">한정승인</a></li>
+							<li><a href="${pageContext.request.contextPath}/#none">지급명령</a></li>
+							<li><a href="${pageContext.request.contextPath}/#none">소장/가압류</a></li>
 						</ul>
 					</div>
 				</li>
