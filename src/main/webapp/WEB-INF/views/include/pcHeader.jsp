@@ -256,7 +256,7 @@
 					<div class="subMenuWrap">
 						<div class="subMenuCallInfo">
 						<p>개인회생/개인파산/민사 똑같다고 생각 마세요.</p>
-						<p>여러분의 최고 파트너 <span id="bigtxt">'김재현 변호사'</span>가 함께합니다.</p>
+						<p>여러분의 최고 파트너 <span id="bigtxt">'김재현 법무사'</span>가 함께합니다.</p>
 						<h1>053-719-3557</h1>
 					</div><!-- subMenuCallInfo -->
 					</div>
