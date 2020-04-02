@@ -260,9 +260,9 @@
 			<h4 class="mCallInfoTitle" id="mCallInfoTitle">상담센터</h4>
 			<h3>053-719-3557</h3>
 			<h4 class="mCallInfoTitle">방문상담</h4>
-			<h5>AM 09:00<span class="blank"> ~ PM 06:00</span></h5>
-			<h4 class="mCallInfoTitle">전화상담</h4>
 			<h5>AM 09:00<span class="blank"> ~ PM 07:00</span></h5>
+			<h4 class="mCallInfoTitle">전화상담</h4>
+			<h5>AM 08:00<span class="blank"> ~ PM 10:00</span></h5>
 		</div><!-- callInfo end -->
 	</div>
 </div>
